@@ -13,5 +13,5 @@ Scenario: A bike selling company wants to create a dashboard for bike sales from
   * In the "sales" schema there are 5 tables: customers, stores, staffs, orders, order_items.
 
 ## 3. Writing queries and creating visualization.
-* First, I write SQL query to join multiple tables' properties together, and export the data into a csv file.
-* Second, I put the data in csv file into Tableau and create <a href="https://public.tableau.com/app/profile/long7032/viz/data_viz_exercise/ReportDashboard">this</a> visualization.
+* First, I write a <a href="https://github.com/Longnh-github/Bike-sales/blob/main/bike_sales_cleaned.sql">SQL query</a> to join multiple tables' properties together, and export the data into a csv file.
+* Second, I import the data in csv file into Tableau and create <a href="https://public.tableau.com/app/profile/long7032/viz/data_viz_exercise/ReportDashboard">this</a> visualization.
