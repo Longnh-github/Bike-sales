@@ -5,6 +5,8 @@ This is my data analytics exercise to practice writing SQL queries and visualizi
 
 Scenario: A bike selling company wants to create a dashboard for bike sales from 2016 to 2018.
 
+Tool used: SQL and Tableau
+
 ## 2. Data
 * The data is a sample dataset come from this <a href="https://www.sqlservertutorial.net/load-sample-database/m">website</a> (I will upload the dataset to this repository).
 * I use postgreSQL to host a local database called 'bike_sales'.
