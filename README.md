@@ -16,4 +16,4 @@ Tool used: SQL and Tableau
 
 ## 3. Writing queries and creating visualization.
 * First, I write a <a href="https://github.com/Longnh-github/Bike-sales/blob/main/bike_sales_cleaned/bike_sales_cleaned.sql">SQL query</a> to join multiple tables' properties together, and export the data into a csv file.
-* Second, I import the data in csv file into Tableau and create <a href="https://public.tableau.com/app/profile/long7032/viz/data_viz_exercise/ReportDashboard">this</a> visualization.
+* Second, I import the data in csv file into Tableau and create <a href="https://public.tableau.com/app/profile/long7032/viz/Bikesales_16763818255090/ReportDashboard">this</a> visualization.
